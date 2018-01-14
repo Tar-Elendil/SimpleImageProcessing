@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleImageProcessing</string>
+    <string name="viewpager_name_label">Image type</string>
+    <string name="viewpager_time_label">Time taken to process (ms)</string>
+</resources>
