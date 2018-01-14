@@ -170,5 +170,6 @@ fabric.properties
 .DS_Store
 
 # OpenCV for Android
+jniLibs/
 
 # End of https://www.gitignore.io/api/android,androidstudio
